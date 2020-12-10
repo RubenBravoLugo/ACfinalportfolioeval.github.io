@@ -144,11 +144,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Midterm Eval</span></h2>
 
-<a href="https://rubenbravolugo.github.io/ACmidtermeval.github.io/">
-        <img src="ved=0CAIQjRxqFwoTCMDagubxw-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
+<a href="https://docs.google.com/document/d/1sVruO2uMylr_7wnXhD9JJinoECySlMkBCTaHsBEwBlc/edit?usp=sharing">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdaWucbsYJPNQkm-YP206rTRsqWldXvtee2A&usqp=CAU" height="233" width="144"> </a>
 
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Final Eval</span></h2>
 
 <a href="https://docs.google.com/document/d/1dgZ9_oIBoDxUxi56IVyaCA1bzOeJNJEu9sOM1TmiMV8/edit">
-        <img src="w-0CFQAAAAAdAAAAABAD" height="233" width="144"> </a>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdaWucbsYJPNQkm-YP206rTRsqWldXvtee2A&usqp=CAU" height="233" width="144"> </a>
